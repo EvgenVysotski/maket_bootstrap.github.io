@@ -1,0 +1,25 @@
+
+.container-fluid{background-image: url(m.png);
+    background-repeat: repeat-y;
+    background-position: 98%;
+    background-color: white;
+    }
+
+.d1{height: 128px;
+    text-align: center;
+    background-color: #DABEE5;
+    font-size: 2em;
+    vertical-align: middle;}
+
+
+.c1{ background-color: #B5EBB5;
+    font-size: 20px;
+    background-image: none;
+    }
+ 
+img{float: left; padding: 10px;}
+p{text-align: center;  }  
+
+
+
+
